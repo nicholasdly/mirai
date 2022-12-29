@@ -1,6 +1,8 @@
 
+from src.main import run
+
 def main():
-    pass
+    run()
 
 if __name__ == "__main__":
     main()
